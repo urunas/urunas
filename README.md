@@ -1,4 +1,4 @@
-# Hi! I'm Ürün Asar
+# Hi! I'm Ürün
 
 ---
 
@@ -9,7 +9,7 @@ Currently, I am focused on improving my SQL skills and learning the fundamentals
 
 ## Tech Stack
 
-**Languages & Technologies I’m Learning:**
+**Languages & Technologies:**
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
@@ -21,10 +21,15 @@ Currently, I am focused on improving my SQL skills and learning the fundamentals
 
 **Tools & Platforms:**
 
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+![Notion](https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+**Concepts & Methodologies:**
+
+![Agile](https://img.shields.io/badge/AGILE-2496ED?style=for-the-badge)
+![Software Development](https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-333333?style=for-the-badge)
 
 **Currently Exploring:**
 
