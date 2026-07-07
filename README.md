@@ -25,15 +25,11 @@ Alongside this, I am building my GitHub profile and working on beginner-friendly
 
 ## Goals
 
-- Build practical beginner-friendly projects
 - Improve my SQL and database skills
 - Learn Python and backend development
 - Strengthen my GitHub and LinkedIn profiles
 - Gain experience through internships and real-world projects
 
-## GitHub Stats
-
-![Ürün's GitHub stats](https://github-readme-stats.vercel.app/api?username=urunas&show_icons=true&theme=dark)
 
 ## Let's Connect
 
