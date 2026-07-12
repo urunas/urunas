@@ -1,13 +1,34 @@
-# Hi! I'm Ürün
+
+# Hi! I'm Ürün <br>
+
+
+Computer Programming Student · Database Enthusiast · Curious Builder
+<br>
+Building a strong foundation in **SQL and database systems** while exploring software development, Linux and artificial intelligence tools.
+<br>
+<br>
+
+## About Me <br>
+I am a second-year Computer Programming student at Gazi University, currently maintaining a 3.80 / 4.00 GPA. <br>
+
+My strongest area is SQL and relational database design. Alongside databases, I enjoy researching Linux systems, artificial intelligence models and modern development tools. <br>
+
+I learn by exploring how technologies work, comparing alternatives and applying what I discover through practical projects. 
+<br>
+
+> I enjoy understanding not only how a technology is used, but also why it works and where it fits.
+
+
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urunasar/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urunasar@gmail.com)
 
 ---
 
-I am a 2nd year Computer Programming student at Gazi University with a GPA of 3.80/4.00.  
-I am interested in software development, databases, and building practical projects.
 
-Currently, I am focused on improving my SQL skills and learning the fundamentals of software development.  
-
-## Tech Stack
+### Tech Stack
 
 **Languages & Technologies:**
 
@@ -33,11 +54,4 @@ Currently, I am focused on improving my SQL skills and learning the fundamentals
 
 **Currently Exploring:**
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Backend Development](https://img.shields.io/badge/BACKEND%20DEVELOPMENT-333333?style=for-the-badge)
-
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urunasar/)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urunasar@gmail.com)
+`Python` · `Backend Development` · `Linux` · `Git Workflows` · `AI Models`
