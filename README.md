@@ -1,39 +1,27 @@
+# Hi, I'm Ürün <br>
+I am a second-year Computer Programming student at Gazi University, maintaining a **3.80** / 4.00 GPA. <br>
+I focus on **SQL and relational database design** and use that as a lens for exploring the rest, from Linux internals to modern AI tooling and backend development.
 
-# Hi! I'm Ürün <br>
-
-
-Computer Programming Student · Database Enthusiast · Curious Builder
-<br>
-Building a strong foundation in **SQL and database systems** while exploring software development, Linux and artificial intelligence tools.
-<br>
-<br>
-
-## About Me <br>
-I am a second-year Computer Programming student at Gazi University, currently maintaining a 3.80 / 4.00 GPA. <br>
-
-My strongest area is SQL and relational database design. Alongside databases, I enjoy researching Linux systems, artificial intelligence models and modern development tools. <br>
-
-I learn by exploring how technologies work, comparing alternatives and applying what I discover through practical projects. 
-<br>
-
-> I enjoy understanding not only how a technology is used, but also why it works and where it fits.
+>Tools change every few months. I focus on understanding the fundamentals so I can keep my edge while others start over every time a new tool drops on Tech Twitter.
 
 
+**Currently Exploring:**
 
-### Let's Connect
+`Linux Mint` · `Backend Development` · `Python` · `Git Workflows` · `AI Models`
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urunasar/)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urunasar@gmail.com)
+I learn by comparing alternatives, testing ideas through practical projects, and questioning how systems behave beyond the surface.
+
+I am not interested in simply making code run. Meaningful solutions begin with seeing the right problem, I want to understand why it works, where it breaks, and how it can be designed better. My goal is to build software with depth. Systems that are not only functional, but deliberate, efficient, and built on a clear understanding of what happens beneath the surface. 
+
+
 
 ---
 
-
 ### Tech Stack
-
 **Languages & Technologies:**
 
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -50,8 +38,8 @@ I learn by exploring how technologies work, comparing alternatives and applying 
 **Concepts & Methodologies:**
 
 ![Agile](https://img.shields.io/badge/AGILE-2496ED?style=for-the-badge)
-![Software Development](https://img.shields.io/badge/SOFTWARE%20DEVELOPMENT-333333?style=for-the-badge)
 
-**Currently Exploring:**
+### Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urunasar/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urunasar@gmail.com)
 
-`Python` · `Backend Development` · `Linux` · `Git Workflows` · `AI Models`
