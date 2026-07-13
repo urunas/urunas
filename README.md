@@ -2,8 +2,7 @@
 I am a second-year Computer Programming student at Gazi University, maintaining a **3.80** / 4.00 GPA. <br>
 I focus on **SQL and relational database design** and use that as a lens for exploring the rest, from Linux internals to modern AI tooling and backend development.
 
->Tools change every few months. I focus on understanding the fundamentals so I can keep my edge while others start over every time a new tool drops on Tech Twitter.
-
+>Tools change every few months. I focus on understanding the fundamentals so I can keep my edge without having to start from scratch every time a new tool drops on Tech Twitter.
 
 **Currently Exploring:**
 
