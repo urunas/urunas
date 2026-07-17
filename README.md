@@ -42,15 +42,4 @@ I am not interested in simply making code run. Meaningful solutions begin with s
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urunasar/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urunasar@gmail.com)
 
-## Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Crops12/Crops12/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Crops12/Crops12/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Crops12/Crops12/output/github-snake.svg" />
-</picture>
-
-</div>
 
